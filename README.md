@@ -1,3 +1,4 @@
+Hej och välkommen
 # Kom igång med Git
 
 I det här repot får du öva på grundläggande Git-kommandon. Du arbetar med din egen kopia av klassens GitHub-template. Ändringar du skickar upp påverkar alltså ditt repo på GitHub.
